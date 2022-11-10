@@ -1,3 +1,3 @@
 # Daily-Journal
-<p>please run npm i in terminal to install all dependencies<p>
+<p>please run <code>npm i<code> in terminal to install all dependencies<p>
 thank you
